@@ -1,0 +1,84 @@
+	
+	
+	
+	
+	
+	
+	nuceni používat verzovací systém - git
+	
+	zadání - implementace chatu
+
+	skládás e z klientù a serverù,
+
+	server - implementace v ASP, musí poskytovat rest API
+
+
+	klient - je jedno v èem bude napsaný, 
+
+	požadavky
+	na serveru budou users, ty se budou pøihlašovat loginem nebo emailem
+
+	uživatel se regne
+
+	každý uživatel bude mít kontakt list, seznam dalších uživatelù
+
+	chat mezi uživatelema
+
+
+	takže -
+	PM
+	kontakt list,
+	chat room, prostì multichat
+	
+
+	pernamentí historie zpráv
+
+
+
+	+ za maturitu( file transfer, voice chat, video chat )
+
+
+	dobrý by bylo dát tam smajlíci :D 
+
+
+	jeden èlovìk v teamu = 1 klient
+
+	
+
+	js, wpf, mobile, winForm, cordova, console
+
+
+
+	dead line - konec ledna 28.1.2017
+
+
+	api dokumentace
+	
+	
+	
+			
+	
+	jaký technologie, pøipravit prostøedí - GIT, databáze pøipravit, entity freamwork
+
+
+
+	cizí klíè chat roomu kam patøí
+
+
+	message - od jakého uživatele je, text, datum, 
+
+
+	Chat room - n k n k uživateli
+	
+	
+	
+		
+		
+		
+	
+	
+	
+
+
+
+
